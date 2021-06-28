@@ -9,6 +9,5 @@ real world. Tis will also make use of basic data stuctures to store the results.
 - The user will be able to perform both basic and scientific calculations using this calculator. For example "+" Addistion "-" Subraction Multiplication "X" aswell as scientific calcution in trignometric operations.</br>
 - The calculator has memory feature. In this feature at a time user will be able to store all the previous calculations and results performend and look into that later.</br>
 
-**HOW IT WORKS: 
- **</br>
+**HOW IT WORKS:** </br>
  - The user will enter the input number for which He needs to perform calculation.
