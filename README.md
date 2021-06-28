@@ -11,3 +11,10 @@ real world. Tis will also make use of basic data stuctures to store the results.
 
 **HOW IT WORKS:** </br>
  - The user will enter the input number for which He needs to perform calculation.
+
+**SET UP:**</br>
+1. Fork and clone the repository</br>
+git clone https://github.com/keshav2410garg/scientific-calculator.git
+2. Move to the directory</br>
+cd scitific-calculator
+
