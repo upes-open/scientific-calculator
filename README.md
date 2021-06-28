@@ -1,6 +1,8 @@
 # scientific-calculator
 
-[![OPEN SOURCE](https://img.shields.io/badge/OPEN SOURCE%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+[![Opensource](https://img.shields.io/badge/Open Source%3F-yes-Green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+
 
 
 **OVERVIEW:**</br>
