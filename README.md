@@ -1,5 +1,8 @@
 # scientific-calculator
 
+[![OPEN SOURCE](https://img.shields.io/badge/OPEN SOURCE%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+
+
 **OVERVIEW:**</br>
 Ever wondered of making you own calculator that will be based your understading of the first language the you learned that is C++ and basic concepts of OOP's programming.
 So this repository focuses on making a calculator on C++ that will not enhance you C++ skills but also be based on object oriented and how these concepts can be modeled and replicated with 
