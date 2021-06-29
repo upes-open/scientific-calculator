@@ -1,6 +1,6 @@
 # scientific-calculator
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
-
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 </br>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 
@@ -27,4 +27,11 @@ real world. Tis will also make use of basic data stuctures to store the results.
 2. Move to the directory</br>
 
      cd scitific-calculator
+     
+**PROJECT STRUCTURE**</br>
+- **inc**: This is populated by the header files used in project
+- **obj**: It contains all the object of the .cpp files.
+- **src**: It will be populated by all the .cpp files used to build calculator
+
+
 
