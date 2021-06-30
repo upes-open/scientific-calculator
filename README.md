@@ -8,7 +8,7 @@
 
 
 **OVERVIEW:**</br>
-Ever wondered of making you own calculator that will be based your understading of the first language the you learned that is C++ and basic concepts of OOP's programming.
+Ever wondered of making your own calculator that will be based on your understanding of the first language you learned that is C++ and basic concepts of OOP's programming.
 So this repository focuses on making a calculator on C++ that will not enhance you C++ skills but also be based on object oriented and how these concepts can be modeled and replicated with 
 real world. Tis will also make use of basic data stuctures to store the results.
 
@@ -32,6 +32,5 @@ real world. Tis will also make use of basic data stuctures to store the results.
 - **inc**: This is populated by the header files used in project
 - **obj**: It contains all the object of the .cpp files.
 - **src**: It will be populated by all the .cpp files used to build calculator
-
 
 
