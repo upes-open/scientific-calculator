@@ -8,13 +8,12 @@
 
 
 **OVERVIEW:**</br>
-Ever wondered of making your own calculator that will be based on your understanding of the first language you learned that is C++ and basic concepts of OOP's programming.
-So this repository focuses on making a calculator on C++ that will not enhance you C++ skills but also be based on object oriented and how these concepts can be modeled and replicated with 
-real world. Tis will also make use of basic data stuctures to store the results.
+Ever wondered of making your own calculator that will be build on your basic understanding of first language you learned that is C++ and basic concepts of OOP's programming.
+This repository focuses on making your own calculator on C++ that will not only brush up your C++ skills but also be based on object oriented programming concepts and how these concepts can be modeled and replicated with real world examples. This will also make use of basic data stuctures to store the results.
 
 **FEATURES:**</br>
 - The user will be able to perform both basic and scientific calculations using this calculator. For example "+" Addistion "-" Subraction Multiplication "X" aswell as scientific calcution in trignometric operations.</br>
-- The calculator has memory feature. In this feature at a time user will be able to store all the previous calculations and results performend and look into that later.</br>
+- The calculator has an add on of  memory feature. Using this feature user will be able to store all the previous calculations made and  their results which user can refer to perform further calculations.</br>
 
 **HOW IT WORKS:** </br>
  - The user will enter the input number for which He needs to perform calculation.
