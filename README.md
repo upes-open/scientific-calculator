@@ -7,7 +7,7 @@
 
 
 
-**OVERVIEW:**</br>
+**INTRODUCTION:**</br>
 "Ever wondered what it takes to build your own calculator? Well, what if we tell you that all you need is a programming language like C++ and some basic knowledge of Object Oriented Programming. Still seems unreal? We'll walk you through it. This repository will not only brush up your knowledge of C++ but also educate you about concepts of OOPs and how they can be modeled and replicated with real world examples."
 
 **FEATURES:**</br>
