@@ -29,7 +29,6 @@ This repository focuses on making your own calculator on C++ that will not only 
      
 **PROJECT STRUCTURE**</br>
 - **inc**: This is populated by the header files used in project
-- **obj**: It contains all the object of the .cpp files.
 - **src**: It will be populated by all the .cpp files used to build calculator
 
 
