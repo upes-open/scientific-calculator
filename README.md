@@ -1,4 +1,4 @@
-# scientific-calculator
+# SCIENTIFIC CALCULATOR
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 </br>
@@ -8,15 +8,11 @@
 
 
 **OVERVIEW:**</br>
-Ever wondered of making your own calculator that will be build on your basic understanding of first language you learned that is C++ and basic concepts of OOP's programming.
-This repository focuses on making your own calculator on C++ that will not only brush up your C++ skills but also be based on object oriented programming concepts and how these concepts can be modeled and replicated with real world examples. This will also make use of basic data stuctures to store the results.
+"Ever wondered what it takes to build your own calculator? Well, what if we tell you that all you need is a programming language like C++ and some basic knowledge of Object Oriented Programming. Still seems unreal? We'll walk you through it. This repository will not only brush up your knowledge of C++ but also educate you about concepts of OOPs and how they can be modeled and replicated with real world examples."
 
 **FEATURES:**</br>
-- The user will be able to perform both basic and scientific calculations using this calculator. For example "+" Adddition "-" Subraction Multiplication "X" as well as scientific calculation like trignometric operations.</br>
-- The calculator has an add on of  memory feature. Using this feature user will be able to store all the previous calculations made and  their results which user can refer to perform further calculations.</br>
-
-**HOW IT WORKS:** </br>
- - The user will enter the input number for which He needs to perform calculation.
+- The user will be able to perform both basic and scientific calculations using this calculator. For example: "+" Addition, "-" Subtraction, "X" Multiplication,"/" Division and Trignometric operations.</br>
+- The calculator comes with an add on memory feature. With the help of this feature user can store previous calculations and their results which can be referred to later for ease in calculations.</br>
 
 **SET UP:**</br>
 1. Fork and clone the repository</br>
