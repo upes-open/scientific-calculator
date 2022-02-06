@@ -15,7 +15,7 @@
 ## SET UP:</br>
 1. Fork and clone the repository</br>
 
-     git clone https://github.com/keshav2410garg/scientific-calculator.git
+     git clone https://github.com/upes-open/scientific-calculator.git
      
 2. Move to the directory</br>
 
