@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1642950323 source:c:\users\yatha\onedrive\desktop\codeblocks\sc\main.cpp
+	<iostream>
+	<math.h>
+
